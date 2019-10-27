@@ -7,7 +7,7 @@ int main()
     scanf("d",&number);
     printf("Factors of %d are: ", number);
     for(i=1; i <= number; ++i) {
-        if (number%i = 0) 
+        if (number%i == 0) 
             printf("%d ",i);
         }
     }
