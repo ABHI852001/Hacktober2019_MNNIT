@@ -2,6 +2,7 @@
 
 int main()
 {
+ int n;
  printf("enter number");
  int nt;
 
